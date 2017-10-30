@@ -1,6 +1,6 @@
 # Eligibility
 
-1. Applicants must meet the baseline requirements outlined below:  
+1. Applicants must meet the baseline requirements outlined below:
 2. Applicants may apply as a natural person \(an “Individual”\) or as a firm, association, organization, partnership, business trust, corporation, limited liability company, or public entity \(each, an “Organization”\).
 3. Public agencies are ineligible for funding under this program. This restriction does not apply to public universities.
 4. Projects must be located in the City of Sacramento. 
@@ -47,6 +47,3 @@ This grant may not be used for:
 * All project activities funded through this program must be open and advertised to the general public, and include publicity that recognizes the funding received from the City of Sacramento’s RAILS Program.
 * Expected project outcomes must be stated and assessed in the application.
 * Participant and audience numbers must be tracked and the project must be documented \(e.g., video/audio recording, collateral materials such as flyers, postcards, and programs, or use of a social media hashtag, etc.\).
-
-
-
