@@ -1,8 +1,8 @@
 {
-    "plugins": ["disqus"],
-    "pluginsConfig": {
-        "disqus": {
-            "shortName": "2018-rails-guidelines"
+"plugins": ["facebook"],
+"pluginsConfig": {
+    "facebook": {
+        "appKey": {{1927605414226438}}
         }
     }
 }
