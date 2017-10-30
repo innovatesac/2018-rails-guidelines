@@ -1,6 +1,10 @@
+![](/assets/rails-logo.png)
+
 # DRAFT **2018 RAILS Grant Program Guidelines**
 
-**Last updated: October 25, 2017**
+**Last updated: October 30, 2017**
+
+---
 
 On June 21, 2016, the Sacramento City Council adopted the Innovation and Growth Fund Policy and Guidelines to create new programs that expand the startup pipeline and engage the innovation ecosystem. In doing so, the council unanimously approved a framework for the Rapid Acceleration, Innovation, and Leadership in Sacramento \(RAILS\) program.
 
