@@ -2,13 +2,13 @@
 
 ## Application Period
 
-Application period begins **Day, Month, XX, YYYY, 8:00 a.m. PST.**
+Application period begins **Monday, April 9, 2018, 10:00 a.m. PST.**
 
-Application deadline is **Day, Month, XX, YYYY, 11:59 p.m. PST.**
+Application deadline is **Monday, May 7, 2018, noon PST.**
 
 ## Submission Requirements
 
-The City will only accept applications submitted at **\[URL\]**. All applicants are required to submit the following information:
+The City will only accept applications submitted through the online application platform. The online application platform may be accessed at [https://innovatesac.org/rails](https://innovatesac.org/rails). All applicants are required to submit the following information:
 
 1. **Application Form:** Applicants must complete all of the questions included in the online application.
 
@@ -16,24 +16,24 @@ The City will only accept applications submitted at **\[URL\]**. All applicants 
 
 3. **References:** Applicants must provide three professional references to individuals who can validate applicant's capabilities and work ethic.
 
-## Online Workshop
+## Technical Assistance
 
-An online workshop will be live streamed on **Day, Month, XX, YYYY at 10:00am**. A link to the archived video will be posted here.
+City staff will conduct technical assistance workshops to provide applicants with an overview of the application process and answer questions. One in-person workshop will be held at City Hall and two online workshops will be livestreamed over YouTube with the videos available for later viewing.
 
-REGISTER FOR THE ONLINE WORKSHOP
+### Online Workshop #1
 
-## Conference Calls
+Wednesday, April 11, Noon-1pm
 
-Two conference calls will be held to allow applicants the opportunity to ask questions ask questions:
+### City Hall Workshop
 
-* **Day, Month, XX, YYYY at 10:00am**
-* **Day, Month, XX, YYYY at 2:00pm**
+Wednesday, April 18, 6-8pm
 
-REGISTER FOR THE MONTH XX CALL
+### Online Workshop #2
 
-REGISTER FOR THE MONTH XX CALL
+Wednesday, May 2, 10-11am
+
+For links and registration information, please visit: [https://innovatesac.org/rails](https://innovatesac.org/rails)
 
 ## Questions?
 
-City staff can provide general technical assistance to interested applicants. To ensure open and equitable access to grant information, all questions must be posted at: **\[URL\]**
-
+City staff will answer questions for interested applicants using an online platform. To ensure open and equitable access to grant information, all questions and answers must be posted to this platform. To access the question and answer platform, please visit: [https://innovatesac.org/rails](https://innovatesac.org/rails)

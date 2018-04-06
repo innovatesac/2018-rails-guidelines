@@ -8,5 +8,5 @@
 * [Eligibility and Restrictions](eligibility-restrictions.md)
 * [Selection Process](selection-process.md)
 * [Statement of Inclusion](statement-of-inclusion.md)
+* [Youth Development Plan](youth-development-plan.md)
 * [Disclosures](disclosures.md)
-

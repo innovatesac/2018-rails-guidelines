@@ -2,32 +2,84 @@
 
 ## Application Evaluation
 
-The process for reviewing and evaluating proposals will be as follows:
+The City anticipates implementing the following process for reviewing and evaluating proposals:
 
 1. City staff will review grant applications for completeness and eligibility. When necessary, applicants may be asked to revise proposals or supply additional information.
 
-2. A Review Committee comprising City staff will identify the top 40 applications from the eligible pool and designate those applications as Semi-Finalists.
+2. The Mayor’s Tech Council will review and score all eligible applications using the Innovation & Growth Fund Policy Guidelines and Criteria, and designate the highest-ranking applications as semi-finalists.
 
-3. The Mayor's Tech Council will review the Semi-Finalist application pool and designate the top 20 applications as Finalists.
+3. The Mayor's Tech Council will conduct a more in-depth review of semi-finalist applications using the RAILS Application Scoring Criteria, and designate the top 20 applications as finalists.
 
 4. Finalist applicants will be invited to a Pitch Day event in which they will have five minutes to pitch their project and five minutes to answer questions from the Mayor's Tech Council.
+
 5. The Mayor's Tech Council will nominate the top projects from Pitch Day and recommend preliminary awards and amounts to the City Council.
-6. The City Council will vote on whether to amend or adopt the preliminary awards and amounts.
+
+6. The City Council will vote to amend or adopt the preliminary awards and amounts.
+
 7. The City Council's decisions about awards and amounts are final and not subject to appeal.
 
-## **Review Criteria**
+The City may modify this process in its sole discretion if, based on the number of applications submitted, the City determines that another process is more appropriate.
 
-Eligible applications will be reviewed by the Review Panel using the following criteria:
+## Innovation & Growth Fund Policy Guidelines
 
-* **Diversity and Inclusion: **Does the project engage residents from all of Sacramento’s communities?
-* **Economic Impact: **Does the project have potential to drive short, medium, or long-term economic activity?
-* **Social Impact:** Does the proposed project catalyze the innovation economy in an underserved community and/or empower youth?
-* **Replicability/Scalability:** Does the project include a repeatable and scalable business model to increase its impact?
-* **Geographic Feasibility: **Is the project in a location that could be developed into a small scale economic hub?
-* **Track Record:** Based on past programming, does the Individual/Organization demonstrate the skills needed to complete the proposed project?
-* **Project Feasibility:** Are the outcomes for the proposed project clearly stated and attainable?
+All funds allocated must advance economic development projects and programs that result in at least one of the following:
+
+1. **Create Jobs:** Projects and programs that create or retain permanent jobs.  
+
+2. **Make it Easier to Conduct Business:** Projects and programs that decrease or eliminate barriers for businesses to operate in the City.  
+
+3. **Leverage Funds with other Private or Public Funds:** The Fund will fill financial gaps in projects and programs.  
+
+4. **Increase Revenue to the City:** Projects and programs using Fund resources that  directly or indirectly increase short-term city revenue or long-term revenue potential.
+
+5. **Accelerate Growth:** Projects and programs that promote the formation and growth of businesses that engage in the commercialization of innovative research and products, or promote emerging industries.  
+
+6. **Encourage Diversity:** Projects and programs that encourage diversity and inclusion in the innovation community.
+
+## Innovation & Growth Fund Policy Criteria
+
+All applications will be evaluated based on the following minimum criteria:
+
+* Proven track record
+
+* Clear, actionable plans that achieve RAILS objectives
+
+* Fills an industry gap or local market need
+
+* City funds would be "catalytic" to completing the project
+
+* Value to the Sacramento innovation ecosystem
+
+* Program deliverables and metrics
+
+## RAILS Application Scoring Criteria
+
+Semi-finalist and finalist applications will be scored as follows:
+
+1. Potential Impact (40 points)
+
+2. Equity & Inclusion (25 points)
+
+3. Investment Leveraged & Financial Sustainability (20 points)
+
+4. Community Partnerships & Collaboration (15 points)
+
+*Applications may receive preference points for any or all of the following:*
+
+1. Applicant is an employer actively participating in the Thousand Strong program (5 points)
+
+2. Project has a geographic focus in at least one of the following underserved communities (5 points):
+
+    1. Del Paso Heights
+
+    2. Oak Park
+
+    3. Meadowview
+
+    4. Valley Hi
+
+Applications for programs serving youth will be additionally vetted to determine how the proposed project: (1) promotes equity of access to students throughout the city, and (2) integrates the youth development framework and one or more of the social justice principles in the Citywide Youth Development Campaign Plan ensuring a high-quality experience for participants.
 
 ## Conflicts of Interest
 
-The Review Panel will comprise both City staff and experts in the field. These experts may include members of the Mayor’s Tech Council. No member of the Review Panel may be financially interested in a grant.
-
+Application reviewers will comprise both City staff and the Mayor’s Tech Council. No reviewer may be financially interested in a grant.
