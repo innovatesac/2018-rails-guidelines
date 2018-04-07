@@ -2,13 +2,13 @@
 
 ## Background
 
-In January 2017, a Cultural Equity Task Force, established to ensure that the policies and procedures of the Sacramento Metropolitan Arts Commission (SMAC) lead to grant awards that reflect the rich diversity (demographic, disciplinary, and cultural) of the population of Sacramento, convened for the first time. Sixteen members of the public were appointed to serve on the Task Force. After six months, their work concluded with the adoption of the Arts Commission's new Cultural Equity Statement.
+In January 2017, a Cultural Equity Task Force, established to ensure that the policies and procedures of the Sacramento Metropolitan Arts Commission \(SMAC\) lead to grant awards that reflect the rich diversity \(demographic, disciplinary, and cultural\) of the population of Sacramento, convened for the first time. Sixteen members of the public were appointed to serve on the Task Force. After six months, their work concluded with the adoption of the Arts Commission's new Cultural Equity Statement.
 
 The following Statement of Inclusion is based on SMAC's Cultural Equity Statement.
 
 ## Statement
 
-City of Sacramento innovation and economic development officials ("we") believe that all people in our City have the right to celebrate and engage in meaningful and relevant innovation ecosystem experiences. Each member of the community should engage in innovation ecosystem experiences that reflect and nourish their identity and self-esteem. We are committed to ensuring racial and cultural equity in our outreach, funding, leadership, resource allocation, partnerships, and programs. We believe that equity moves past inclusion and representation; accepting that power has created uneven starting points for some communities and individuals.
+City of Sacramento innovation and economic development officials \("we"\) believe that all people in our City have the right to celebrate and engage in meaningful and relevant innovation ecosystem experiences. Each member of the community should engage in innovation ecosystem experiences that reflect and nourish their identity and self-esteem. We are committed to ensuring racial and cultural equity in our outreach, funding, leadership, resource allocation, partnerships, and programs. We believe that equity moves past inclusion and representation; accepting that power has created uneven starting points for some communities and individuals.
 
 We define **Equity** as the inclusion and fair representation of multiple diverse populations in outreach and in the allocation of funding, resources, and programs, providing equitable and fair treatment, access, opportunity, and advancement for all people, while at the same time striving to identify and eliminate barriers that have prevented the full participation of some communities.
 
@@ -25,3 +25,8 @@ We define **Communities** as neighborhoods, social and cultural enclaves, divers
 **Equity and Access.** We acknowledge that inequity is pervasive and historic. Simple diverse representation does not dismantle the unequal nature of voice, resource allocation, and visibility that exist in the innovation ecosystem. Disparities and discrimination are daily occurrences that are entrenched in long standing majority privilege and power inside and outside of the innovation ecosystem; tackling issues surrounding these occurrences requires an understanding of the root causes of disparities within our society. We commit to systemic change that will remove barriers, thus improving access, empowerment and representation in the development and distribution of innovation economy policy and resources to diverse communities and individuals. We acknowledge that there are different methods of communication and embrace a variety of communication styles that will allow for equitable access.
 
 **Accountability.** We will hold ourselves accountable by acknowledging that equity does not currently exist in the innovation ecosystem. We will provide transparent and inclusive processes in the selection and allocation of all innovation ecosystem funding, resources, and the development of policies and practices. We commit to ongoing evaluation and review of the effectiveness of inclusionary practices and procedures.
+
+{% page-ref page="youth-development-plan.md" %}
+
+
+

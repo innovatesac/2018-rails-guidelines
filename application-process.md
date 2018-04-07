@@ -2,7 +2,7 @@
 
 ## Application Period
 
-Application period begins **Monday, April 9, 2018, 10:00 a.m. PST.**
+Application period begins **Monday, April 9, 2018, noon PST.**
 
 Application deadline is **Monday, May 7, 2018, noon PST.**
 
@@ -11,16 +11,14 @@ Application deadline is **Monday, May 7, 2018, noon PST.**
 The City will only accept applications submitted through the online application platform. The online application platform may be accessed at [https://innovatesac.org/rails](https://innovatesac.org/rails). All applicants are required to submit the following information:
 
 1. **Application Form:** Applicants must complete all of the questions included in the online application.
-
 2. **Project Budget:** Applicants applying for grant must submit a proposed budget detailing how the awarded funds will be used to accomplish the proposed activity.
-
 3. **References:** Applicants must provide three professional references to individuals who can validate applicant's capabilities and work ethic.
 
 ## Technical Assistance
 
-City staff will conduct technical assistance workshops to provide applicants with an overview of the application process and answer questions. One in-person workshop will be held at City Hall and two online workshops will be livestreamed over YouTube with the videos available for later viewing.
+City staff will conduct technical assistance workshops to provide applicants with an overview of the application process and answer questions. One in-person workshop will be held at City Hall and two online workshops will be livestreamed on YouTube, with the videos available for later viewing.
 
-### Online Workshop #1
+### Online Workshop \#1
 
 Wednesday, April 11, Noon-1pm
 
@@ -28,7 +26,7 @@ Wednesday, April 11, Noon-1pm
 
 Wednesday, April 18, 6-8pm
 
-### Online Workshop #2
+### Online Workshop \#2
 
 Wednesday, May 2, 10-11am
 
@@ -37,3 +35,8 @@ For links and registration information, please visit: [https://innovatesac.org/r
 ## Questions?
 
 City staff will answer questions for interested applicants using an online platform. To ensure open and equitable access to grant information, all questions and answers must be posted to this platform. To access the question and answer platform, please visit: [https://innovatesac.org/rails](https://innovatesac.org/rails)
+
+{% page-ref page="focus-areas.md" %}
+
+
+
