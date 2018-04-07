@@ -11,3 +11,7 @@
 * [Youth Development Plan](youth-development-plan.md)
 * [Disclosures](disclosures.md)
 
+## Resources
+
+* [Download PDF](https://github.com/innovatesac/2018-rails-guidelines/raw/master/assets/2018-rails-guidelines.pdf)
+
