@@ -14,4 +14,5 @@
 ## Resources
 
 * [Download PDF](https://github.com/innovatesac/2018-rails-guidelines/raw/master/assets/2018-rails-guidelines.pdf)
+* [Grant Application Form](https://goo.gl/forms/VwCG0soKnXCSsVU23)
 
