@@ -49,11 +49,10 @@ Applications may receive preference points for any or all of the following:
 
 1. Applicant is an employer actively participating in the Thousand Strong program \(5 points\)
 2. Project has a geographic focus in at least one underserved community such as \(5 points\):
-
-* Del Paso Heights
-* Oak Park
-* Meadowview
-* Valley Hi
+ * Del Paso Heights
+ * Oak Park
+ * Meadowview
+ * Valley Hi
 
 Applications for programs serving youth will be additionally vetted to determine how the proposed project: \(1\) promotes equity of access to students throughout the city, and \(2\) integrates the youth development framework and one or more of the social justice principles in the [Citywide Youth Development Campaign Plan](youth-development-plan.md) ensuring a high-quality experience for participants.
 
