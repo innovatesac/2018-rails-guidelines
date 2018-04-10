@@ -49,10 +49,22 @@ Applications may receive preference points for any or all of the following:
 
 1. Applicant is an employer actively participating in the Thousand Strong program \(5 points\)
 2. Project has a geographic focus in at least one underserved community such as \(5 points\):
-   * Del Paso Heights
+   * Strawberry Manor
+   * Del Paso Heights/Nuevo
+   * Wills Acres
+   * Richardson Village
+   * South Hagginwood
+   * Noralto
+   * Old North Sacramento
+   * Twin Rivers
+   * Alkali Flat
+   * Marina Vista-Alder Grove
    * Oak Park
+   * Lemon Hill
+   * Woodbine
    * Meadowview
-   * Valley Hi
+   * Parkway
+   * Valley Hi/North Laguna
 
 Applications for programs serving youth will be additionally vetted to determine how the proposed project: \(1\) promotes equity of access to students throughout the city, and \(2\) integrates the youth development framework and one or more of the social justice principles in the [Citywide Youth Development Campaign Plan](youth-development-plan.md) ensuring a high-quality experience for participants.
 
