@@ -1,7 +1,7 @@
 # Table of contents
 
 * [2018 RAILS Grant Program Guidelines](README.md)
-* [Overview and Purpose](purpose.md)
+* [Overview and Purpose](overview-and-purpose.md)
 * [Application Process](application-process.md)
 * [Focus Areas](focus-areas.md)
 * [Grant Categories](grant-categories.md)

@@ -1,9 +1,3 @@
----
-description: >-
-  Individuals, startups, companies, and nonprofits are invited to apply for
-  grant funding in three areas:
----
-
 # Grant Categories
 
 ## **Acceleration Grants \($50k to $250k\)**

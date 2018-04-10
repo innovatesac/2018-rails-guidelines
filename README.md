@@ -6,7 +6,7 @@ description: 'April 9, 2018'
 
 ![](.gitbook/assets/rails-logo.png)
 
-{% page-ref page="purpose.md" %}
+{% page-ref page="overview-and-purpose.md" %}
 
 {% page-ref page="application-process.md" %}
 
@@ -23,6 +23,4 @@ description: 'April 9, 2018'
 {% page-ref page="youth-development-plan.md" %}
 
 {% page-ref page="disclosures.md" %}
-
-
 

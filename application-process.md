@@ -20,17 +20,17 @@ City staff will conduct technical assistance workshops to provide applicants wit
 
 ### Online Workshop \#1
 
-Wednesday, April 11, Noon-1pm
+[Wednesday, April 11, Noon-1pm](https://www.eventbrite.com/e/rails-online-application-technical-assistance-workshop-tickets-44967310436)
 
 ### City Hall Workshop
 
-Wednesday, April 18, 6-8pm
+[Wednesday, April 18, 6-8pm](https://www.eventbrite.com/e/rails-in-person-technical-assistance-workshop-tickets-44967643432)
 
 ### Online Workshop \#2
 
-Wednesday, May 2, 10-11am
+[Wednesday, May 2, 10-11am](https://www.eventbrite.com/e/final-rails-online-application-technical-assistance-workshop-tickets-44968329484)
 
-For links and registration information, please visit: [https://innovatesac.org/rails](https://innovatesac.org/rails)
+For links and registration information, please visit: [http://innovatesac.eventbrite.com/](http://innovatesac.eventbrite.com/)
 
 ## Questions?
 

@@ -1,9 +1,3 @@
----
-description: >-
-  The following focus areas represent the types of projects the City intends to
-  encourage through this program:
----
-
 # Focus Areas
 
 ### Startup Enabler
