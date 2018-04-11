@@ -20,7 +20,7 @@ City staff will conduct technical assistance workshops to provide applicants wit
 
 ### Online Workshop \#1
 
-[Wednesday, April 11, Noon-1pm](https://www.eventbrite.com/e/rails-online-application-technical-assistance-workshop-tickets-44967310436)
+Wednesday, April 11, Noon-1pm \([WATCH VIDEO](https://www.youtube.com/watch?v=TufiAgINbIs)\)
 
 ### City Hall Workshop
 
