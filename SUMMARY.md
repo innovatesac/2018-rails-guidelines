@@ -16,4 +16,5 @@
 * [Download PDF](https://github.com/innovatesac/2018-rails-guidelines/raw/master/assets/2018-rails-guidelines.pdf)
 * [Grant Application Form](https://goo.gl/forms/VwCG0soKnXCSsVU23)
 * [Budget Template](https://docs.google.com/spreadsheets/d/1WGe3_GEkSIjLmPK7M-9kqQ8xZbtAYOsAr6kdeKZvpNE/edit)
+* [City Insurance Requirements](resources/city-insurance-requirements.md)
 
