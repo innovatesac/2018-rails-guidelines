@@ -47,7 +47,7 @@ Semi-finalist and finalist applications will be scored as follows:
 
 Applications may receive preference points for any or all of the following:
 
-1. Applicant is an employer actively participating in the Thousand Strong program \(5 points\)
+1. Applicant is an employer actively participating in the [Thousand Strong](https://www.cityofsacramento.org/Mayor-Council/Districts/Mayor/Initiatives/Investing-in-Our-Youth/Thousand-Strong/Employers) program \(5 points\)
 2. Project has a geographic focus in at least one underserved community such as \(5 points\):
    * Strawberry Manor
    * Del Paso Heights/Nuevo

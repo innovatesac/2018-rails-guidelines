@@ -17,4 +17,5 @@
 * [Grant Application Form](https://goo.gl/forms/VwCG0soKnXCSsVU23)
 * [Budget Template](https://docs.google.com/spreadsheets/d/1WGe3_GEkSIjLmPK7M-9kqQ8xZbtAYOsAr6kdeKZvpNE/edit)
 * [City Insurance Requirements](resources/city-insurance-requirements.md)
+* [Thousand Strong Employer Information](https://www.cityofsacramento.org/Mayor-Council/Districts/Mayor/Initiatives/Investing-in-Our-Youth/Thousand-Strong/Employers)
 
