@@ -18,5 +18,6 @@
 * [Budget Template](https://docs.google.com/spreadsheets/d/1WGe3_GEkSIjLmPK7M-9kqQ8xZbtAYOsAr6kdeKZvpNE/edit)
 * [City Insurance Requirements](resources/city-insurance-requirements.md)
 * [Thousand Strong Employer Information](https://www.cityofsacramento.org/Mayor-Council/Districts/Mayor/Initiatives/Investing-in-Our-Youth/Thousand-Strong/Employers)
+* [Workshops](https://www.eventbrite.com/o/mayors-office-for-innovation-amp-entrepreneurship-city-of-sacramento-14347014988)
 * [2017 Grant Program](https://innovatesac.gitbook.io/2017-rails-program/)
 

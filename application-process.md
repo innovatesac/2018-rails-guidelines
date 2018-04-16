@@ -22,6 +22,8 @@ City staff will conduct technical assistance workshops to provide applicants wit
 
 Wednesday, April 11, Noon-1pm \([WATCH VIDEO](https://www.youtube.com/watch?v=TufiAgINbIs)\)
 
+{% embed data="{\"url\":\"https://www.youtube.com/embed/TufiAgINbIs \",\"type\":\"video\",\"title\":\"RAILS Technical Assistance Workshop\",\"description\":\"Read the Grant Guidelines at: https://rails.innovatesac.org/\n\nQ&A platform: https://github.com/innovatesac/2018-rails-guidelines/issues?q=is%3Aissue+is%3Aopen+sort%3Acreated-asc \n\nAsk a new question: https://goo.gl/forms/6I6rrGLahSURZLFk2\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.youtube.com/yts/img/favicon\_144-vfliLAfaB.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://i.ytimg.com/vi/TufiAgINbIs/mqdefault.jpg\",\"width\":320,\"height\":180,\"aspectRatio\":0.5625},\"embed\":{\"type\":\"player\",\"url\":\"https://www.youtube.com/embed/TufiAgINbIs?rel=0&showinfo=0\",\"html\":\"<div style=\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\\"><iframe src=\\"https://www.youtube.com/embed/TufiAgINbIs?rel=0&amp;showinfo=0\\" style=\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\" allowfullscreen scrolling=\\"no\\"></iframe></div>\",\"aspectRatio\":1.7778}}" %}
+
 ### City Hall Workshop
 
 [Wednesday, April 18, 6-8pm](https://www.eventbrite.com/e/rails-in-person-technical-assistance-workshop-tickets-44967643432)
