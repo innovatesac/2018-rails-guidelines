@@ -38,7 +38,5 @@ Social entrepreneurs are developing new technologies and business models to tack
 
 The preceding focus areas are intended to serve as inspiration and guidance. Applicants may be creative in their proposed concepts, but should not substantially deviate from these focus areas.
 
-{% page-ref page="grant-categories.md" %}
-
 
 

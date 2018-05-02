@@ -60,7 +60,5 @@ All project activities funded through this program must be open and advertised t
 
 Expected project outcomes must be stated and assessed in the application. Participant and audience numbers must be tracked and the project must be documented \(e.g., video/audio recording, collateral materials such as flyers, postcards, and programs, or use of a social media hashtag, etc.\).
 
-{% page-ref page="selection-process.md" %}
-
 
 

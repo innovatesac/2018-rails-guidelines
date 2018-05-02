@@ -72,5 +72,3 @@ Applications for programs serving youth will be additionally vetted to determine
 
 Application reviewers will comprise both City staff and the Mayor’s Tech Council. No reviewer may be financially interested in a grant.
 
-{% page-ref page="statement-of-inclusion.md" %}
-

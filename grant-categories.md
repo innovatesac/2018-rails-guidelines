@@ -20,7 +20,5 @@ Projects can be new undertakings for the applicant or represent further developm
 
 There is a required minimum cash grant match of 1:1 for grants of $100,000 or more. The required match must comprise direct cash investment from the grantee or a third party. Any contribution other than cash — for example, in-kind support — does not count toward the cash grant match requirement. Applications for grants under $100,000 with leveraged funding sources may receive preference.
 
-{% page-ref page="eligibility-and-restrictions.md" %}
-
 
 

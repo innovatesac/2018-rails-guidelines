@@ -26,7 +26,5 @@ We define **Communities** as neighborhoods, social and cultural enclaves, divers
 
 **Accountability.** We will hold ourselves accountable by acknowledging that equity does not currently exist in the innovation ecosystem. We will provide transparent and inclusive processes in the selection and allocation of all innovation ecosystem funding, resources, and the development of policies and practices. We commit to ongoing evaluation and review of the effectiveness of inclusionary practices and procedures.
 
-{% page-ref page="youth-development-plan.md" %}
-
 
 

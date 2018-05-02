@@ -72,7 +72,5 @@ When designing, implementing, and evaluating its children and youth programs, th
 
 * Ability to impact community
 
-{% page-ref page="disclosures.md" %}
-
 
 

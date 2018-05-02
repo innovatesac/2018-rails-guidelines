@@ -30,15 +30,15 @@ Wednesday, April 11, Noon-1pm \([WATCH VIDEO](https://www.youtube.com/watch?v=Tu
 
 ### Online Workshop \#2
 
-[Wednesday, May 2, 10-11am](https://www.eventbrite.com/e/final-rails-online-application-technical-assistance-workshop-tickets-44968329484)
+Wednesday, May 2, 10-11am \([WATCH VIDEO](https://www.youtube.com/watch?v=c4n_uRE_MiI)\)
+
+{% embed data="{\"url\":\"https://www.youtube.com/watch?v=c4n\_uRE\_MiI\",\"type\":\"link\",\"title\":\"FINAL 2018 RAILS Technical Assistance Workshop\",\"description\":\"Read the Grant Guidelines at: https://rails.innovatesac.org/\n\nWhen event is live, questions will be accepted at: http://goo.gl/slides/ry7pbg\n\nQ&A platform: https://github.com/innovatesac/2018-r... \n\nAsk a new question: https://goo.gl/forms/6I6rrGLahSURZLFk2\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.youtube.com/yts/img/favicon\_144-vfliLAfaB.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://i.ytimg.com/vi/c4n\_uRE\_MiI/maxresdefault.jpg\",\"width\":1280,\"height\":720,\"aspectRatio\":0.5625}}" %}
 
 For links and registration information, please visit: [http://innovatesac.eventbrite.com/](http://innovatesac.eventbrite.com/)
 
 ## Questions?
 
 City staff will answer questions for interested applicants using an online platform. To ensure open and equitable access to grant information, all questions and answers must be posted to this platform. To access the question and answer platform, please visit: [https://innovatesac.org/rails](https://innovatesac.org/rails)
-
-{% page-ref page="focus-areas.md" %}
 
 
 

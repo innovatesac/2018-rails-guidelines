@@ -26,7 +26,5 @@ The City of Sacramento’s RAILS program is designed to catalyze innovation in t
 * Educational programs training our next entrepreneurs in technology and business to build Sacramento-based startups
 * Science, Technology, Engineering, Arts, and Math \(STEAM\) education for youth
 
-{% page-ref page="application-process.md" %}
-
 
 
