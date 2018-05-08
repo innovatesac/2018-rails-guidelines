@@ -18,5 +18,9 @@ Staff notifies all applicants of their application status within approximately t
 
 A typical grant disbursement can be an initial maximum of 50 percent of the funds, with the remaining grant funds disbursed after desired performance is met. Grantees will need to show how the grant money was spent before the rest of the funds are disbursed. There is no match requirement for grants under $100,000. No payments will be made until the contract has been fully executed. Payments typically take 60 days to process after receipt of an acceptable invoice.
 
+## Subject to Change
+
+The City Manager, in his sole discretion, may modify these guidelines at any time and may, on a case-by-case basis, modify the permissible and impermissible uses of grant funds.
+
 
 
