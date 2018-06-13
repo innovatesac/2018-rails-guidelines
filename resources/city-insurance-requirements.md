@@ -15,14 +15,14 @@ Grantee and/or the sponsoring organization shall defend, indemnify, and hold har
 
 **You must submit two \(2\) documents to satisfy insurance requirements \(**[**see examples**](https://github.com/innovatesac/2018-rails-guidelines/raw/master/assets/Insurance%20Examples.pdf)**\):**
 
-1. **Certificate of Insurance** in the amount of $1 million worth of General Commercial Liability coverage (for youth-serving grantees, $2 million in aggregate, and $1 million) per occurrence) must be submitted for the length of the grant agreement \(12 months\).
+1. **Certificate of Insurance** in the amount of $1 million worth of General Commercial Liability coverage \(youth-serving grantees must have $2 million in aggregate, and $1 million per occurrence\) must be submitted for the length of the grant agreement \(12 months\).
 
 * The standard proof of insurance is the ACORD certificate form.
 * The name of the insured, the insurance carrier, the policy number, coverage limits, and effective and expiration dates for the coverage must be stated on the certificate of insurance.
 * If alcohol will be sold or consumed at an event, a $1 million liquor liability is required.
 * Certificate holder must be listed on the certificate as City of Sacramento, 915 I Street, Sacramento, CA 95814.
 * Insurance certificates must be signed by an authorized representative of the insurance carrier. Electronic signatures are acceptable.
-* For youth-serving grantees, the policy must not include an exclusion for sexual abuse, physical abuse, or molestation.
+* The policy must not include an exclusion for sexual abuse, physical abuse, or molestation.
 
 2. **Additional Endorsement** is required to reflect that the insurance policy has been amended to include the City of Sacramento as insured.
 
